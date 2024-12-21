@@ -1,0 +1,397 @@
+{"level":"info","message":"EmailProcessor initialized successfully","timestamp":"2024-12-21T14:18:18.710Z"}
+{"level":"info","message":"Successfully connected to MongoDB","timestamp":"2024-12-21T14:18:18.799Z"}
+{"level":"info","message":"Successfully connected to email server","timestamp":"2024-12-21T14:18:21.983Z"}
+{"level":"info","message":"Database connection closed","timestamp":"2024-12-21T14:18:25.140Z"}
+{"level":"error","message":"Error saving email to database: Client must be connected before running operations","timestamp":"2024-12-21T14:18:27.478Z"}
+{"level":"error","message":"Error processing email: Client must be connected before running operations","timestamp":"2024-12-21T14:18:27.479Z"}
+{"level":"info","message":"Finished processing all emails","timestamp":"2024-12-21T14:18:27.514Z"}
+{"level":"error","message":"Error saving email to database: Client must be connected before running operations","timestamp":"2024-12-21T14:18:27.515Z"}
+{"level":"error","message":"Error processing email: Client must be connected before running operations","timestamp":"2024-12-21T14:18:27.516Z"}
+{"level":"error","message":"Error saving email to database: Client must be connected before running operations","timestamp":"2024-12-21T14:18:27.519Z"}
+{"level":"error","message":"Error processing email: Client must be connected before running operations","timestamp":"2024-12-21T14:18:27.520Z"}
+{"level":"error","message":"Error saving email to database: Client must be connected before running operations","timestamp":"2024-12-21T14:18:27.530Z"}
+{"level":"error","message":"Error processing email: Client must be connected before running operations","timestamp":"2024-12-21T14:18:27.532Z"}
+{"level":"error","message":"Email server connection error: read ECONNRESET","timestamp":"2024-12-21T14:18:28.818Z"}
+{"level":"info","message":"EmailProcessor initialized successfully","timestamp":"2024-12-21T14:21:41.278Z"}
+{"level":"info","message":"Successfully connected to MongoDB","timestamp":"2024-12-21T14:21:41.345Z"}
+{"level":"info","message":"Saved email from recruitment.entrylevel@tcs.com to MongoDB","timestamp":"2024-12-21T14:21:45.693Z"}
+{"level":"info","message":"Processed email: TCS NextStep: Login Email ID Verification","timestamp":"2024-12-21T14:21:45.694Z"}
+{"level":"error","message":"Error saving email to database: E11000 duplicate key error collection: email_db.emails index: messageId_1 dup key: { messageId: null }","timestamp":"2024-12-21T14:21:45.703Z"}
+{"level":"error","message":"Error processing email: E11000 duplicate key error collection: email_db.emails index: messageId_1 dup key: { messageId: null }","timestamp":"2024-12-21T14:21:45.704Z"}
+{"level":"error","message":"Error saving email to database: E11000 duplicate key error collection: email_db.emails index: messageId_1 dup key: { messageId: null }","timestamp":"2024-12-21T14:21:45.705Z"}
+{"level":"error","message":"Error processing email: E11000 duplicate key error collection: email_db.emails index: messageId_1 dup key: { messageId: null }","timestamp":"2024-12-21T14:21:45.706Z"}
+{"level":"error","message":"Error saving email to database: E11000 duplicate key error collection: email_db.emails index: messageId_1 dup key: { messageId: null }","timestamp":"2024-12-21T14:21:45.708Z"}
+{"level":"error","message":"Error processing email: E11000 duplicate key error collection: email_db.emails index: messageId_1 dup key: { messageId: null }","timestamp":"2024-12-21T14:21:45.708Z"}
+{"level":"info","message":"Finished processing all emails","timestamp":"2024-12-21T14:21:45.709Z"}
+{"level":"info","message":"Database connection closed","timestamp":"2024-12-21T14:21:45.713Z"}
+{"level":"error","message":"MongoDB connection error: Cannot read properties of undefined (reading 'Database')","timestamp":"2024-12-21T14:23:29.758Z"}
+{"level":"error","message":"Critical error in main execution: Cannot read properties of undefined (reading 'Database')","timestamp":"2024-12-21T14:23:29.764Z"}
+{"level":"info","message":"Starting email processor...","timestamp":"2024-12-21T14:34:31.526Z"}
+{"level":"info","message":"Reading config file from: C:\\Users\\Karapakula Manogna\\OneDrive\\Documents\\Nexagen-node\\email-processor\\config\\config.ini","timestamp":"2024-12-21T14:34:31.531Z"}
+{"0":"Email","1":"Database","level":"info","message":"Config sections found:","timestamp":"2024-12-21T14:34:31.534Z"}
+{"level":"info","message":"Config validation successful","timestamp":"2024-12-21T14:34:31.535Z"}
+{"level":"info","message":"EmailProcessor initialized successfully","timestamp":"2024-12-21T14:34:31.536Z"}
+{"level":"info","message":"Successfully connected to MongoDB","timestamp":"2024-12-21T14:34:31.637Z"}
+{"level":"info","message":"Saved email from notification@priority.facebookmail.com to MongoDB","timestamp":"2024-12-21T14:34:36.531Z"}
+{"level":"info","message":"Processed email: You have 9 notifications about Jyoti and others","timestamp":"2024-12-21T14:34:36.531Z"}
+{"level":"info","message":"Saved email from recruitment.entrylevel@tcs.com to MongoDB","timestamp":"2024-12-21T14:34:36.539Z"}
+{"level":"info","message":"Processed email: TCS NextStep: Login Email ID Verification","timestamp":"2024-12-21T14:34:36.540Z"}
+{"level":"info","message":"Saved email from recruitment.entrylevel@tcs.com to MongoDB","timestamp":"2024-12-21T14:34:36.548Z"}
+{"level":"info","message":"Processed email: Acceptance of TCS Offer Letter","timestamp":"2024-12-21T14:34:36.548Z"}
+{"level":"info","message":"Saved email from no-reply@accounts.google.com to MongoDB","timestamp":"2024-12-21T14:34:36.558Z"}
+{"level":"info","message":"Reading config file from: C:\\Users\\Karapakula Manogna\\OneDrive\\Documents\\Nexagen-node\\email-processor\\config\\config.ini","timestamp":"2024-12-21T14:37:07.650Z"}
+{"0":"Email","1":"Database","level":"info","message":"Config sections found:","timestamp":"2024-12-21T14:37:07.658Z"}
+{"level":"info","message":"Config validation successful","timestamp":"2024-12-21T14:37:07.659Z"}
+{"level":"info","message":"EmailProcessor initialized successfully","timestamp":"2024-12-21T14:37:07.660Z"}
+{"level":"info","message":"Successfully connected to MongoDB","timestamp":"2024-12-21T14:37:07.746Z"}
+{"level":"info","message":"Saved email from recruitment.entrylevel@tcs.com to MongoDB","timestamp":"2024-12-21T14:37:11.909Z"}
+{"level":"info","message":"Processed email: TCS NextStep: Login Email ID Verification","timestamp":"2024-12-21T14:37:11.909Z"}
+{"level":"info","message":"Saved email from recruitment.entrylevel@tcs.com to MongoDB","timestamp":"2024-12-21T14:37:11.918Z"}
+{"level":"info","message":"Processed email: Acceptance of TCS Offer Letter","timestamp":"2024-12-21T14:37:11.919Z"}
+{"level":"info","message":"Saved email from no-reply@accounts.google.com to MongoDB","timestamp":"2024-12-21T14:37:11.937Z"}
+{"level":"info","message":"Processed email: Security alert","timestamp":"2024-12-21T14:37:11.938Z"}
+{"level":"info","message":"Saved email from notification@priority.facebookmail.com to MongoDB","timestamp":"2024-12-21T14:37:11.948Z"}
+{"level":"info","message":"Processed email: You have 9 notifications about Jyoti and others","timestamp":"2024-12-21T14:37:11.948Z"}
+{"level":"info","message":"Finished processing all emails","timestamp":"2024-12-21T14:37:11.949Z"}
+{"level":"info","message":"Database connection closed","timestamp":"2024-12-21T14:37:11.953Z"}
+{"level":"info","message":"Reading config file from: C:\\Users\\Karapakula Manogna\\OneDrive\\Documents\\Nexagen-node\\email-processor\\config\\config.ini","timestamp":"2024-12-21T15:14:54.476Z"}
+{"0":"Email","1":"Database","level":"info","message":"Config sections found:","timestamp":"2024-12-21T15:14:54.482Z"}
+{"level":"info","message":"Config validation successful","timestamp":"2024-12-21T15:14:54.483Z"}
+{"level":"info","message":"EmailProcessor initialized successfully","timestamp":"2024-12-21T15:14:54.483Z"}
+{"level":"info","message":"Successfully connected to MongoDB","timestamp":"2024-12-21T15:14:54.648Z"}
+{"level":"info","message":"Saved email from updates-noreply@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:01.356Z"}
+{"level":"info","message":"Processed email: Manogna, Check out what happened last week in your industry","timestamp":"2024-12-21T15:15:01.357Z"}
+{"level":"info","message":"Saved email from jobs-listings@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:01.462Z"}
+{"level":"info","message":"Processed email: Software Engineer Intern job at Super is available","timestamp":"2024-12-21T15:15:01.463Z"}
+{"level":"info","message":"Saved email from notifications-noreply@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:01.633Z"}
+{"level":"info","message":"Processed email: Rohit Kumar Rayala shared a post:…","timestamp":"2024-12-21T15:15:01.634Z"}
+{"level":"info","message":"Saved email from messages-noreply@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:01.678Z"}
+{"level":"info","message":"Processed email: 7 people visited your profile","timestamp":"2024-12-21T15:15:01.678Z"}
+{"level":"info","message":"Saved email from no-reply@mail.instagram.com to MongoDB","timestamp":"2024-12-21T15:15:01.750Z"}
+{"level":"info","message":"Processed email: buzzfeedtasty, draxlerofficial and salmahayek have posts","timestamp":"2024-12-21T15:15:01.751Z"}
+{"level":"info","message":"Saved email from jungwon.byun@elicit.com to MongoDB","timestamp":"2024-12-21T15:15:01.767Z"}
+{"level":"info","message":"Processed email: 10% off Elicit Plus + access to new features - expires in 3 days","timestamp":"2024-12-21T15:15:01.767Z"}
+{"level":"info","message":"Saved email from hello@mail.grammarly.com to MongoDB","timestamp":"2024-12-21T15:15:01.802Z"}
+{"level":"info","message":"Processed email: You’re a writing powerhouse!","timestamp":"2024-12-21T15:15:01.803Z"}
+{"level":"info","message":"Saved email from Coursera@m.learn.coursera.org to MongoDB","timestamp":"2024-12-21T15:15:01.890Z"}
+{"level":"info","message":"Processed email: Recommended: Cybercrime","timestamp":"2024-12-21T15:15:01.890Z"}
+{"level":"info","message":"Saved email from alice@bellefever.com.au to MongoDB","timestamp":"2024-12-21T15:15:01.941Z"}
+{"level":"info","message":"Processed email: Are You Ignoring These MUST HAVE Pieces In Your Life, Manogna? 🤩","timestamp":"2024-12-21T15:15:01.941Z"}
+{"level":"info","message":"Saved email from no-reply@mail.instagram.com to MongoDB","timestamp":"2024-12-21T15:15:01.984Z"}
+{"level":"info","message":"Processed email: gajja__loverboy__143, ashwinirohit2 and msu________sai__ff have posts","timestamp":"2024-12-21T15:15:01.985Z"}
+{"level":"info","message":"Saved email from alice@bellefever.com.au to MongoDB","timestamp":"2024-12-21T15:15:02.016Z"}
+{"level":"info","message":"Processed email: Unlock 15% Off: Your First Belle Fever Order Awaits!","timestamp":"2024-12-21T15:15:02.017Z"}
+{"level":"info","message":"Saved email from alice@bellefever.com.au to MongoDB","timestamp":"2024-12-21T15:15:02.051Z"}
+{"level":"info","message":"Processed email: Counting down the hours… 20% off won’t last ⏰","timestamp":"2024-12-21T15:15:02.052Z"}
+{"level":"info","message":"Saved email from messages-noreply@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:02.067Z"}
+{"level":"info","message":"Processed email: Since you set a Software Engineer alert, improve your Software Engineer skills with these courses","timestamp":"2024-12-21T15:15:02.067Z"}
+{"level":"info","message":"Saved email from jobs-listings@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:02.227Z"}
+{"level":"info","message":"Processed email: Web Development Intern job at VideoDubber.ai is available","timestamp":"2024-12-21T15:15:02.227Z"}
+{"level":"info","message":"Saved email from alice@bellefever.com.au to MongoDB","timestamp":"2024-12-21T15:15:02.256Z"}
+{"level":"info","message":"Processed email: This Is Your Very Last Chance To Get Your Discount! ⚠️💸","timestamp":"2024-12-21T15:15:02.256Z"}
+{"level":"info","message":"Saved email from juliet.orang@elicit.com to MongoDB","timestamp":"2024-12-21T15:15:02.305Z"}
+{"level":"info","message":"Processed email: Search over 125 million papers with Elicit","timestamp":"2024-12-21T15:15:02.305Z"}
+{"level":"info","message":"Saved email from notifications-noreply@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:02.357Z"}
+{"level":"info","message":"Processed email: Talluri Nageswararao shared a post:…","timestamp":"2024-12-21T15:15:02.357Z"}
+{"level":"info","message":"Saved email from no-reply@mail.instagram.com to MongoDB","timestamp":"2024-12-21T15:15:02.380Z"}
+{"level":"info","message":"Processed email: supremeephenom, juanpa and choi_seung_hyun_tttop have posts","timestamp":"2024-12-21T15:15:02.382Z"}
+{"level":"info","message":"Saved email from noreply@updates.tataneu.com to MongoDB","timestamp":"2024-12-21T15:15:02.408Z"}
+{"level":"info","message":"Processed email: 🤩 Unbelievable grocery deals for you 🍅","timestamp":"2024-12-21T15:15:02.408Z"}
+{"level":"info","message":"Saved email from notifications-noreply@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:02.535Z"}
+{"level":"info","message":"Processed email: You appeared in 17 searches","timestamp":"2024-12-21T15:15:02.535Z"}
+{"level":"info","message":"Saved email from survey.noreply@updates.tataneu.com to MongoDB","timestamp":"2024-12-21T15:15:02.581Z"}
+{"level":"info","message":"Processed email: We at Tata Neu would like to hear more from you!","timestamp":"2024-12-21T15:15:02.582Z"}
+{"level":"info","message":"Saved email from linkedin@e.linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:02.617Z"}
+{"level":"info","message":"Processed email: Manogna, find your next job.","timestamp":"2024-12-21T15:15:02.618Z"}
+{"level":"info","message":"Saved email from jobs-listings@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:02.686Z"}
+{"level":"info","message":"Processed email: RegisterKaro is hiring: Web Developer.","timestamp":"2024-12-21T15:15:02.686Z"}
+{"level":"info","message":"Saved email from notifications-noreply@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:02.782Z"}
+{"level":"info","message":"Processed email: Chetan kumar Patruni shared a post:…","timestamp":"2024-12-21T15:15:02.783Z"}
+{"level":"info","message":"Saved email from no-reply@mail.instagram.com to MongoDB","timestamp":"2024-12-21T15:15:02.797Z"}
+{"level":"info","message":"Processed email: whydontwemusic, katherinelangford and leonardodicaprio have posts","timestamp":"2024-12-21T15:15:02.797Z"}
+{"level":"info","message":"Saved email from messages-noreply@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:03.154Z"}
+{"level":"info","message":"Processed email: People with skills in Data Structures follow these creators","timestamp":"2024-12-21T15:15:03.154Z"}
+{"level":"info","message":"Saved email from notifications-noreply@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:03.188Z"}
+{"level":"info","message":"Processed email: Your profile appeared in 17 searches","timestamp":"2024-12-21T15:15:03.188Z"}
+{"level":"info","message":"Saved email from juliet.orang@elicit.com to MongoDB","timestamp":"2024-12-21T15:15:03.209Z"}
+{"level":"info","message":"Processed email: How to extract data and key details from papers in Elicit","timestamp":"2024-12-21T15:15:03.210Z"}
+{"level":"info","message":"Saved email from messages-noreply@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:03.271Z"}
+{"level":"info","message":"Processed email: Manogna, you’re on a roll on LinkedIn!","timestamp":"2024-12-21T15:15:03.271Z"}
+{"level":"info","message":"Saved email from survey.noreply@updates.tataneu.com to MongoDB","timestamp":"2024-12-21T15:15:03.290Z"}
+{"level":"info","message":"Processed email: Reminder: We at Tata Neu would like to hear more from you!","timestamp":"2024-12-21T15:15:03.290Z"}
+{"level":"info","message":"Saved email from mail@mail.adobe.com to MongoDB","timestamp":"2024-12-21T15:15:03.322Z"}
+{"level":"info","message":"Processed email: Say yes to easy organising","timestamp":"2024-12-21T15:15:03.322Z"}
+{"level":"info","message":"Saved email from jobs-listings@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:03.414Z"}
+{"level":"info","message":"Processed email: Ecera System is hiring: Web Development Intern - Actively recruiting","timestamp":"2024-12-21T15:15:03.414Z"}
+{"level":"info","message":"Saved email from noreply@updates.tataneu.com to MongoDB","timestamp":"2024-12-21T15:15:03.483Z"}
+{"level":"info","message":"Processed email: Your chance to earn up to 1 Lakh NeuCoins monthly 💰","timestamp":"2024-12-21T15:15:03.484Z"}
+{"level":"info","message":"Saved email from notifications-noreply@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:03.541Z"}
+{"level":"info","message":"Processed email: Congratulate Dr. Rajapandiyan Panneerselvam for 3 years at SRM University, AP - Amaravati","timestamp":"2024-12-21T15:15:03.542Z"}
+{"level":"info","message":"Saved email from messages-noreply@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:03.619Z"}
+{"level":"info","message":"Processed email: 7 people visited your profile","timestamp":"2024-12-21T15:15:03.620Z"}
+{"level":"info","message":"Saved email from hello@mail.grammarly.com to MongoDB","timestamp":"2024-12-21T15:15:03.764Z"}
+{"level":"info","message":"Processed email: Your writing is hitting all the right notes 🎵","timestamp":"2024-12-21T15:15:03.765Z"}
+{"level":"info","message":"Saved email from messages-noreply@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:03.818Z"}
+{"level":"info","message":"Processed email: Since you set a Software Engineer alert, improve your Software Engineer skills with these courses","timestamp":"2024-12-21T15:15:03.819Z"}
+{"level":"info","message":"Saved email from team@mail.perplexity.ai to MongoDB","timestamp":"2024-12-21T15:15:03.852Z"}
+{"level":"info","message":"Processed email: Discover Daily Podcast by Perplexity","timestamp":"2024-12-21T15:15:03.853Z"}
+{"level":"info","message":"Saved email from messages-noreply@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:03.906Z"}
+{"level":"info","message":"Processed email: Manogna, you’re on a roll on LinkedIn!","timestamp":"2024-12-21T15:15:03.909Z"}
+{"level":"info","message":"Saved email from notifications-noreply@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:04.033Z"}
+{"level":"info","message":"Processed email: SUDA KIRAN SAI REDDY shared a post:…","timestamp":"2024-12-21T15:15:04.033Z"}
+{"level":"info","message":"Saved email from jobalerts-noreply@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:04.169Z"}
+{"level":"info","message":"Processed email: “software engineer”: CommentSold Software Engineer - DevOps/Serverless Backend and more","timestamp":"2024-12-21T15:15:04.170Z"}
+{"level":"info","message":"Saved email from jobs-listings@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:04.305Z"}
+{"level":"info","message":"Processed email: Webriy is hiring: Web Development Internship - 2024","timestamp":"2024-12-21T15:15:04.305Z"}
+{"level":"info","message":"Saved email from messages-noreply@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:04.460Z"}
+{"level":"info","message":"Processed email: 💬 Manogna, add Thatiparthi Arun to your network","timestamp":"2024-12-21T15:15:04.461Z"}
+{"level":"info","message":"Saved email from notifications-noreply@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:04.602Z"}
+{"level":"info","message":"Processed email: KAMMARA KESAVA shared a post: Dear…","timestamp":"2024-12-21T15:15:04.602Z"}
+{"level":"info","message":"Saved email from notifications-noreply@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:04.663Z"}
+{"level":"info","message":"Processed email: Manogna, your profile appeared in searches","timestamp":"2024-12-21T15:15:04.664Z"}
+{"level":"info","message":"Saved email from info@em.hungama.com to MongoDB","timestamp":"2024-12-21T15:15:04.701Z"}
+{"level":"info","message":"Processed email: Lonnggggg Weekend Vibes!","timestamp":"2024-12-21T15:15:04.701Z"}
+{"level":"info","message":"Saved email from jobs-listings@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:04.891Z"}
+{"level":"info","message":"Processed email: Software Engineer - Intern role at Hypersonix Inc. is available","timestamp":"2024-12-21T15:15:04.892Z"}
+{"level":"info","message":"Saved email from no-reply@mail.instagram.com to MongoDB","timestamp":"2024-12-21T15:15:04.916Z"}
+{"level":"info","message":"Processed email: melinaceline, zayn and jasonstatham have posts","timestamp":"2024-12-21T15:15:04.917Z"}
+{"level":"info","message":"Saved email from notifications-noreply@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:05.035Z"}
+{"level":"info","message":"Processed email: Congratulate RAVITEJA THUMBETI for 6 years at SUN PHARMA","timestamp":"2024-12-21T15:15:05.036Z"}
+{"level":"info","message":"Saved email from no-reply@ncp.flipkart.com to MongoDB","timestamp":"2024-12-21T15:15:05.045Z"}
+{"level":"info","message":"Processed email: Want a Better Life?","timestamp":"2024-12-21T15:15:05.045Z"}
+{"level":"info","message":"Saved email from no-reply@mail.instagram.com to MongoDB","timestamp":"2024-12-21T15:15:05.066Z"}
+{"level":"info","message":"Processed email: gajja__loverboy__143, ashwinirohit2 and msu________sai__ff have posts","timestamp":"2024-12-21T15:15:05.066Z"}
+{"level":"info","message":"Saved email from noreply1@samsung.com to MongoDB","timestamp":"2024-12-21T15:15:05.075Z"}
+{"level":"info","message":"Processed email: Shop smarter and connect with up to 5% off!","timestamp":"2024-12-21T15:15:05.076Z"}
+{"level":"info","message":"Saved email from noreply@updates.tataneu.com to MongoDB","timestamp":"2024-12-21T15:15:05.167Z"}
+{"level":"info","message":"Processed email: Lights, Camera, Gift Cards, Smiles! 💡📷🎁😁","timestamp":"2024-12-21T15:15:05.167Z"}
+{"level":"info","message":"Saved email from notifications-noreply@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:05.245Z"}
+{"level":"info","message":"Processed email: Your profile appeared in 8 searches","timestamp":"2024-12-21T15:15:05.246Z"}
+{"level":"info","message":"Saved email from mail@mail.adobe.com to MongoDB","timestamp":"2024-12-21T15:15:05.267Z"}
+{"level":"info","message":"Processed email: Pitch perfect PDFs","timestamp":"2024-12-21T15:15:05.269Z"}
+{"level":"info","message":"Saved email from support@chatbot.com to MongoDB","timestamp":"2024-12-21T15:15:05.325Z"}
+{"level":"info","message":"Processed email: The easiest way to create a chatbot in 2024","timestamp":"2024-12-21T15:15:05.326Z"}
+{"level":"info","message":"Saved email from notifications-noreply@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:05.543Z"}
+{"level":"info","message":"Processed email: You appeared in 8 searches this week","timestamp":"2024-12-21T15:15:05.544Z"}
+{"level":"info","message":"Saved email from messages-noreply@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:05.614Z"}
+{"level":"info","message":"Processed email: 7 people visited your profile","timestamp":"2024-12-21T15:15:05.615Z"}
+{"level":"info","message":"Saved email from hello@mail.grammarly.com to MongoDB","timestamp":"2024-12-21T15:15:05.640Z"}
+{"level":"info","message":"Processed email: Time to celebrate your success 👏","timestamp":"2024-12-21T15:15:05.640Z"}
+{"level":"info","message":"Saved email from hello@mailer.interviewbit.com to MongoDB","timestamp":"2024-12-21T15:15:05.673Z"}
+{"level":"info","message":"Processed email: 🔥 Are You a React Pro?","timestamp":"2024-12-21T15:15:05.674Z"}
+{"level":"info","message":"Saved email from jobs-listings@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:05.822Z"}
+{"level":"info","message":"Processed email: The PRID is hiring a Fresher - Software Development Intern","timestamp":"2024-12-21T15:15:05.823Z"}
+{"level":"info","message":"Saved email from marketing@engage.canva.com to MongoDB","timestamp":"2024-12-21T15:15:05.885Z"}
+{"level":"info","message":"Processed email: Bring the power of design to your documents","timestamp":"2024-12-21T15:15:05.886Z"}
+{"level":"info","message":"Saved email from messages-noreply@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:05.932Z"}
+{"level":"info","message":"Processed email: Since you set a Software Engineer alert, improve your Software Engineer skills with these courses","timestamp":"2024-12-21T15:15:05.933Z"}
+{"level":"info","message":"Saved email from invitations@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:06.057Z"}
+{"level":"info","message":"Processed email: Manogna, please add me to your LinkedIn network","timestamp":"2024-12-21T15:15:06.057Z"}
+{"level":"info","message":"Saved email from noreply@updates.tataneu.com to MongoDB","timestamp":"2024-12-21T15:15:06.065Z"}
+{"level":"info","message":"Processed email: bbnow Bonanza ✨ Stock up for 200 Extra NeuCoins","timestamp":"2024-12-21T15:15:06.066Z"}
+{"level":"info","message":"Saved email from jobs-listings@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:06.387Z"}
+{"level":"info","message":"Processed email: Web Developer Intern role at Business Web Solutions and other opportunities open","timestamp":"2024-12-21T15:15:06.388Z"}
+{"level":"info","message":"Saved email from no-reply@mail.instagram.com to MongoDB","timestamp":"2024-12-21T15:15:06.414Z"}
+{"level":"info","message":"Processed email: supremeephenom, whydontwemusic and narendramodi have posts","timestamp":"2024-12-21T15:15:06.415Z"}
+{"level":"info","message":"Saved email from notifications-noreply@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:06.534Z"}
+{"level":"info","message":"Processed email: You have 1 new invitation","timestamp":"2024-12-21T15:15:06.535Z"}
+{"level":"info","message":"Saved email from mail@mail.adobe.com to MongoDB","timestamp":"2024-12-21T15:15:06.545Z"}
+{"level":"info","message":"Processed email: Make filling out forms feel better","timestamp":"2024-12-21T15:15:06.546Z"}
+{"level":"info","message":"Saved email from notifications-noreply@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:06.581Z"}
+{"level":"info","message":"Processed email: Your profile appeared in 7 searches","timestamp":"2024-12-21T15:15:06.581Z"}
+{"level":"info","message":"Saved email from messages-noreply@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:06.897Z"}
+{"level":"info","message":"Processed email: Manogna, add Mohammed Saifullah - STUDENT LEADER","timestamp":"2024-12-21T15:15:06.897Z"}
+{"level":"info","message":"Saved email from goodvibesto-space@quora.com to MongoDB","timestamp":"2024-12-21T15:15:06.912Z"}
+{"level":"info","message":"Processed email: \"My son, John Hart, was diagnosed with COVID a few weeks ago. The day after he was diagnosed, he coded at home. He went without a pulse for almost ...","timestamp":"2024-12-21T15:15:06.913Z"}
+{"level":"info","message":"Saved email from linkedin@e.linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:06.939Z"}
+{"level":"info","message":"Processed email: Hypersonix Inc. recently posted new jobs.","timestamp":"2024-12-21T15:15:06.940Z"}
+{"level":"info","message":"Saved email from messages-noreply@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:07.029Z"}
+{"level":"info","message":"Processed email: People with skills in Data Structures follow these creators","timestamp":"2024-12-21T15:15:07.029Z"}
+{"level":"info","message":"Saved email from jobs-listings@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:07.112Z"}
+{"level":"info","message":"Processed email: Software Engineer - Intern job at Hypersonix Inc. is available","timestamp":"2024-12-21T15:15:07.113Z"}
+{"level":"info","message":"Saved email from notifications-noreply@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:07.319Z"}
+{"level":"info","message":"Processed email: You have 1 new invitation","timestamp":"2024-12-21T15:15:07.324Z"}
+{"level":"info","message":"Saved email from noreply@mentors.unstop.news to MongoDB","timestamp":"2024-12-21T15:15:07.380Z"}
+{"level":"info","message":"Processed email: Internship Opportunity & cash prizes via Quant challenge by Blaze AI!","timestamp":"2024-12-21T15:15:07.381Z"}
+{"level":"info","message":"Saved email from notifications-noreply@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:07.427Z"}
+{"level":"info","message":"Processed email: Your profile appeared in 7 searches","timestamp":"2024-12-21T15:15:07.428Z"}
+{"level":"info","message":"Saved email from no-reply@mail.instagram.com to MongoDB","timestamp":"2024-12-21T15:15:07.456Z"}
+{"level":"info","message":"Processed email: parinayacreatons2024, gajja__loverboy__143 and ashwinirohit2 have posts","timestamp":"2024-12-21T15:15:07.457Z"}
+{"level":"info","message":"Saved email from noreply@opportuinities.unstop.news to MongoDB","timestamp":"2024-12-21T15:15:07.467Z"}
+{"level":"info","message":"Processed email: Turn clicks into cash just like that! Refer Unstop Pro and earn big now! 🎁","timestamp":"2024-12-21T15:15:07.468Z"}
+{"level":"info","message":"Saved email from no-reply@mail.instagram.com to MongoDB","timestamp":"2024-12-21T15:15:07.506Z"}
+{"level":"info","message":"Processed email: sachintendulkar, franklampard and toni.kr8s have posts","timestamp":"2024-12-21T15:15:07.507Z"}
+{"level":"info","message":"Saved email from mail@mail.adobe.com to MongoDB","timestamp":"2024-12-21T15:15:07.531Z"}
+{"level":"info","message":"Processed email: Different (home) offices, one perfected PDF","timestamp":"2024-12-21T15:15:07.532Z"}
+{"level":"info","message":"Saved email from jobs-listings@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:07.595Z"}
+{"level":"info","message":"Processed email: Software Engineer Intern job at Kintsugi is available","timestamp":"2024-12-21T15:15:07.595Z"}
+{"level":"info","message":"Saved email from notifications-noreply@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:07.743Z"}
+{"level":"info","message":"Processed email: You have 1 new invitation","timestamp":"2024-12-21T15:15:07.744Z"}
+{"level":"info","message":"Saved email from messages-noreply@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:07.800Z"}
+{"level":"info","message":"Processed email: You were viewed by 8 people","timestamp":"2024-12-21T15:15:07.801Z"}
+{"level":"info","message":"Saved email from hello@mail.grammarly.com to MongoDB","timestamp":"2024-12-21T15:15:07.903Z"}
+{"level":"info","message":"Processed email: Unveil this week's stats + snag a $75 annual Premium plan","timestamp":"2024-12-21T15:15:07.904Z"}
+{"level":"info","message":"Saved email from noreply1@samsung.com to MongoDB","timestamp":"2024-12-21T15:15:07.914Z"}
+{"level":"info","message":"Processed email: Add a splash of AI technology to your celebrations 😍","timestamp":"2024-12-21T15:15:07.915Z"}
+{"level":"info","message":"Saved email from messages-noreply@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:08.089Z"}
+{"level":"info","message":"Processed email: Manogna, I’m still waiting for your response","timestamp":"2024-12-21T15:15:08.090Z"}
+{"level":"info","message":"Saved email from support@rapidapi.com to MongoDB","timestamp":"2024-12-21T15:15:08.098Z"}
+{"level":"info","message":"Processed email: New APIs handpicked for you to test on RapidAPI","timestamp":"2024-12-21T15:15:08.099Z"}
+{"level":"info","message":"Saved email from notifications-noreply@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:08.241Z"}
+{"level":"info","message":"Processed email: You have 1 new invitation","timestamp":"2024-12-21T15:15:08.242Z"}
+{"level":"info","message":"Saved email from noreply1@samsung.com to MongoDB","timestamp":"2024-12-21T15:15:08.251Z"}
+{"level":"info","message":"Processed email: Make your Holi epic with Galaxy S23 FE 🥳","timestamp":"2024-12-21T15:15:08.252Z"}
+{"level":"info","message":"Saved email from noreply@opportunities.unstop.news to MongoDB","timestamp":"2024-12-21T15:15:08.279Z"}
+{"level":"info","message":"Processed email: Internship Opportunity at Traya Health & cash prizes via Big Biz Theory 2024 by IIT Madras! Participate now!","timestamp":"2024-12-21T15:15:08.279Z"}
+{"level":"info","message":"Saved email from news@m.elements.envato.com to MongoDB","timestamp":"2024-12-21T15:15:08.318Z"}
+{"level":"info","message":"Processed email: Get 40% Off Unlimited Downloads Manogna","timestamp":"2024-12-21T15:15:08.319Z"}
+{"level":"info","message":"Saved email from noreply@updates.tataneu.com to MongoDB","timestamp":"2024-12-21T15:15:08.327Z"}
+{"level":"info","message":"Processed email: Your first escape to world-class luxury awaits✨","timestamp":"2024-12-21T15:15:08.328Z"}
+{"level":"info","message":"Saved email from marketing@engage.canva.com to MongoDB","timestamp":"2024-12-21T15:15:08.617Z"}
+{"level":"info","message":"Processed email: You’re about to be so much more productive","timestamp":"2024-12-21T15:15:08.618Z"}
+{"level":"info","message":"Saved email from messages-noreply@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:08.719Z"}
+{"level":"info","message":"Processed email: Since you set a Software Engineer alert, improve your Software Engineer skills with these courses","timestamp":"2024-12-21T15:15:08.719Z"}
+{"level":"info","message":"Saved email from jobs-listings@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:08.944Z"}
+{"level":"info","message":"Processed email: Web Development Intern job at Admantium Crypto Advisors is available","timestamp":"2024-12-21T15:15:08.945Z"}
+{"level":"info","message":"Saved email from invitations@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:09.221Z"}
+{"level":"info","message":"Processed email: 👤 I’d like to connect","timestamp":"2024-12-21T15:15:09.222Z"}
+{"level":"info","message":"Saved email from programmersworld-space@quora.com to MongoDB","timestamp":"2024-12-21T15:15:09.315Z"}
+{"level":"info","message":"Processed email: Can we use a pen drive as RAM?","timestamp":"2024-12-21T15:15:09.316Z"}
+{"level":"info","message":"Saved email from notifications-noreply@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:09.384Z"}
+{"level":"info","message":"Processed email: Your profile appeared in 7 searches","timestamp":"2024-12-21T15:15:09.384Z"}
+{"level":"info","message":"Saved email from messages-noreply@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:09.684Z"}
+{"level":"info","message":"Processed email: Manogna, add Neeharika Meka","timestamp":"2024-12-21T15:15:09.685Z"}
+{"level":"info","message":"Saved email from linkedin@e.linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:09.713Z"}
+{"level":"info","message":"Processed email: Want to work at Swiggy?","timestamp":"2024-12-21T15:15:09.714Z"}
+{"level":"info","message":"Saved email from noreply@updates.tataneu.com to MongoDB","timestamp":"2024-12-21T15:15:09.727Z"}
+{"level":"info","message":"Processed email: Step into the future of tech🚀🔮Tap for unbeatable deals on gadgets👇","timestamp":"2024-12-21T15:15:09.728Z"}
+{"level":"info","message":"Saved email from news@m.elements.envato.com to MongoDB","timestamp":"2024-12-21T15:15:09.834Z"}
+{"level":"info","message":"Processed email: Manogna, 40% Off Ends TOMORROW!","timestamp":"2024-12-21T15:15:09.835Z"}
+{"level":"info","message":"Saved email from jobs-listings@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:09.945Z"}
+{"level":"info","message":"Processed email: Software Engineer - Intern role at Hypersonix Inc. is available","timestamp":"2024-12-21T15:15:09.946Z"}
+{"level":"info","message":"Saved email from noreply@updates.tataneu.com to MongoDB","timestamp":"2024-12-21T15:15:09.955Z"}
+{"level":"info","message":"Processed email: Ready to rock a vibrant look 😎 🌈 ? Tap 👇 to explore","timestamp":"2024-12-21T15:15:09.956Z"}
+{"level":"info","message":"Saved email from invitations@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:10.662Z"}
+{"level":"info","message":"Processed email: You have an invitation","timestamp":"2024-12-21T15:15:10.663Z"}
+{"level":"info","message":"Saved email from notifications-noreply@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:10.716Z"}
+{"level":"info","message":"Processed email: You have 1 new invitation","timestamp":"2024-12-21T15:15:10.717Z"}
+{"level":"info","message":"Saved email from noreply1@samsung.com to MongoDB","timestamp":"2024-12-21T15:15:10.722Z"}
+{"level":"info","message":"Processed email: Announcing Galaxy AI on even more devices.","timestamp":"2024-12-21T15:15:10.722Z"}
+{"level":"info","message":"Saved email from messages-noreply@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:11.044Z"}
+{"level":"info","message":"Processed email: Manogna, follow Dubai Modern Education School, School Administrator: 62,850 followers","timestamp":"2024-12-21T15:15:11.045Z"}
+{"level":"info","message":"Saved email from english-personalized-digest@quora.com to MongoDB","timestamp":"2024-12-21T15:15:11.063Z"}
+{"level":"info","message":"Processed email: I am a Muslim but following Islam is hard for me. I can’t pray 5 times a day or fast ...?","timestamp":"2024-12-21T15:15:11.063Z"}
+{"level":"info","message":"Saved email from support@rapidapi.com to MongoDB","timestamp":"2024-12-21T15:15:11.075Z"}
+{"level":"info","message":"Processed email: 💡 Check out new APIs on RapidAPI","timestamp":"2024-12-21T15:15:11.076Z"}
+{"level":"info","message":"Saved email from noreply@updates.tataneu.com to MongoDB","timestamp":"2024-12-21T15:15:11.112Z"}
+{"level":"info","message":"Processed email: Ready to spark up? ⚡ Tap for electrifying deals 👇","timestamp":"2024-12-21T15:15:11.112Z"}
+{"level":"info","message":"Saved email from notifications-noreply@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:11.471Z"}
+{"level":"info","message":"Processed email: You have 1 new invitation","timestamp":"2024-12-21T15:15:11.472Z"}
+{"level":"info","message":"Saved email from no-reply@mail.instagram.com to MongoDB","timestamp":"2024-12-21T15:15:11.504Z"}
+{"level":"info","message":"Processed email: yashu_13_2008, see dead_ulτra🌙😈, gajja and more in your feed","timestamp":"2024-12-21T15:15:11.505Z"}
+{"level":"info","message":"Saved email from noreply@updates.tataneu.com to MongoDB","timestamp":"2024-12-21T15:15:11.510Z"}
+{"level":"info","message":"Processed email: Catch these savings 🏏 Ready to score big?","timestamp":"2024-12-21T15:15:11.511Z"}
+{"level":"info","message":"Saved email from notifications-noreply@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:11.529Z"}
+{"level":"info","message":"Processed email: Your profile appeared in 7 searches","timestamp":"2024-12-21T15:15:11.530Z"}
+{"level":"info","message":"Saved email from jobs-listings@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:11.665Z"}
+{"level":"info","message":"Processed email: Web Developer Intern job at Business Web Solutions is available","timestamp":"2024-12-21T15:15:11.666Z"}
+{"level":"info","message":"Saved email from no-reply@geeksforgeeks.org to MongoDB","timestamp":"2024-12-21T15:15:11.671Z"}
+{"level":"info","message":"Processed email: Special HOLI 🎁 Inside:","timestamp":"2024-12-21T15:15:11.672Z"}
+{"level":"info","message":"Saved email from notifications-noreply@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:11.931Z"}
+{"level":"info","message":"Processed email: You have 1 new invitation","timestamp":"2024-12-21T15:15:11.931Z"}
+{"level":"info","message":"Saved email from messages-noreply@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:12.043Z"}
+{"level":"info","message":"Processed email: 8 people visited your profile","timestamp":"2024-12-21T15:15:12.044Z"}
+{"level":"info","message":"Saved email from updates-noreply@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:12.357Z"}
+{"level":"info","message":"Processed email: Shradha Khapra and others share their thoughts on LinkedIn","timestamp":"2024-12-21T15:15:12.357Z"}
+{"level":"info","message":"Saved email from hello@mail.grammarly.com to MongoDB","timestamp":"2024-12-21T15:15:12.470Z"}
+{"level":"info","message":"Processed email: You’re in it to win it","timestamp":"2024-12-21T15:15:12.470Z"}
+{"level":"info","message":"Saved email from noreply@opportuinities.unstop.news to MongoDB","timestamp":"2024-12-21T15:15:12.607Z"}
+{"level":"info","message":"Processed email: PPO in USA & cash prizes via FairCompute: Passport to Programming challenge! Participate now!","timestamp":"2024-12-21T15:15:12.608Z"}
+{"level":"info","message":"Saved email from messages-noreply@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:12.774Z"}
+{"level":"info","message":"Processed email: Since you set a Software Engineer alert, improve your Software Engineer skills with these courses","timestamp":"2024-12-21T15:15:12.774Z"}
+{"level":"info","message":"Saved email from noreply@updates.tataneu.com to MongoDB","timestamp":"2024-12-21T15:15:12.797Z"}
+{"level":"info","message":"Processed email: Hey, what's the time?⌚It's time for the best deals on watches👇","timestamp":"2024-12-21T15:15:12.797Z"}
+{"level":"info","message":"Saved email from linkedin@e.linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:12.891Z"}
+{"level":"info","message":"Processed email: Manogna, here is your free month of LinkedIn Sales Navigator subscription","timestamp":"2024-12-21T15:15:12.891Z"}
+{"level":"info","message":"Saved email from support@rapidapi.com to MongoDB","timestamp":"2024-12-21T15:15:12.927Z"}
+{"level":"info","message":"Processed email: FREE Invitation From Rapid to apidays [Singapore/New York/Helsinki]  - Limited Spots!","timestamp":"2024-12-21T15:15:12.928Z"}
+{"level":"info","message":"Saved email from jobs-listings@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:13.118Z"}
+{"level":"info","message":"Processed email: Summer Intern role at TestGrid.io: Actively recruiting","timestamp":"2024-12-21T15:15:13.118Z"}
+{"level":"info","message":"Saved email from english-personalized-digest@quora.com to MongoDB","timestamp":"2024-12-21T15:15:13.289Z"}
+{"level":"info","message":"Processed email: Why do feminists say men and women are equal when men do almost everything better?","timestamp":"2024-12-21T15:15:13.290Z"}
+{"level":"info","message":"Saved email from coders@studio.codingninjas.com to MongoDB","timestamp":"2024-12-21T15:15:13.758Z"}
+{"level":"info","message":"Processed email: Coding Ninjas Studio Transforms into Code360 on Naukri!","timestamp":"2024-12-21T15:15:13.759Z"}
+{"level":"info","message":"Saved email from notifications-noreply@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:13.799Z"}
+{"level":"info","message":"Processed email: You have 1 new invitation","timestamp":"2024-12-21T15:15:13.800Z"}
+{"level":"info","message":"Saved email from updates-noreply@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:14.012Z"}
+{"level":"info","message":"Processed email: 💬 SUDA KIRAN SAI REDDY recently posted","timestamp":"2024-12-21T15:15:14.013Z"}
+{"level":"info","message":"Saved email from linkedin@e.linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:14.379Z"}
+{"level":"info","message":"Processed email: Manogna, land your next job on LinkedIn.","timestamp":"2024-12-21T15:15:14.380Z"}
+{"level":"info","message":"Saved email from no-reply@mail.instagram.com to MongoDB","timestamp":"2024-12-21T15:15:14.400Z"}
+{"level":"info","message":"Processed email: michelleobama, ramadansobhi51 and melaniedvcruz have posts","timestamp":"2024-12-21T15:15:14.400Z"}
+{"level":"info","message":"Saved email from premium@academia-mail.com to MongoDB","timestamp":"2024-12-21T15:15:14.421Z"}
+{"level":"info","message":"Processed email: 50% Off, 2 days only - “M. Karapakula” cited by “Deepshikha Bhati”","timestamp":"2024-12-21T15:15:14.422Z"}
+{"level":"info","message":"Saved email from messages-noreply@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:14.482Z"}
+{"level":"info","message":"Processed email: Manogna, here are top recommendations for your feed","timestamp":"2024-12-21T15:15:14.483Z"}
+{"level":"info","message":"Saved email from jobs-listings@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:14.665Z"}
+{"level":"info","message":"Processed email: Software Developer Fresher job at Agilité: Actively recruiting","timestamp":"2024-12-21T15:15:14.665Z"}
+{"level":"info","message":"Saved email from notifications-noreply@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:15.057Z"}
+{"level":"info","message":"Processed email: You have 1 new invitation","timestamp":"2024-12-21T15:15:15.057Z"}
+{"level":"info","message":"Saved email from messages-noreply@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:15.322Z"}
+{"level":"info","message":"Processed email: Manogna, you’re on a roll on LinkedIn!","timestamp":"2024-12-21T15:15:15.322Z"}
+{"level":"info","message":"Saved email from jungwon.byun@elicit.com to MongoDB","timestamp":"2024-12-21T15:15:15.356Z"}
+{"level":"info","message":"Processed email: Introducing Elicit Notebooks to all Elicit users! 📚","timestamp":"2024-12-21T15:15:15.356Z"}
+{"level":"info","message":"Saved email from admin@akool.com to MongoDB","timestamp":"2024-12-21T15:15:15.722Z"}
+{"level":"info","message":"Processed email: Exciting Updates: Avatar, Video Translation, API and NEW Credit Opportunities!","timestamp":"2024-12-21T15:15:15.722Z"}
+{"level":"info","message":"Saved email from hello@duolingo.com to MongoDB","timestamp":"2024-12-21T15:15:15.740Z"}
+{"level":"info","message":"Processed email: ‎👋  Bala is now following you! ‎","timestamp":"2024-12-21T15:15:15.740Z"}
+{"level":"info","message":"Saved email from noreply@opportuinities.unstop.news to MongoDB","timestamp":"2024-12-21T15:15:15.768Z"}
+{"level":"info","message":"Processed email: Multiple PPO opportunitiues & cash prizes worth ₹7.5 Lakh via LogiTHON hackathon! Participate now!","timestamp":"2024-12-21T15:15:15.769Z"}
+{"level":"info","message":"Saved email from notification@priority.facebookmail.com to MongoDB","timestamp":"2024-12-21T15:15:15.783Z"}
+{"level":"info","message":"Processed email: You have 8 notifications about Arshad and others","timestamp":"2024-12-21T15:15:15.784Z"}
+{"level":"info","message":"Saved email from infonc@naukri.com to MongoDB","timestamp":"2024-12-21T15:15:15.827Z"}
+{"level":"info","message":"Processed email: 👥 Refer and earn 10,000 with All India NCAT","timestamp":"2024-12-21T15:15:15.827Z"}
+{"level":"info","message":"Saved email from messages-noreply@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:16.027Z"}
+{"level":"info","message":"Processed email: Manogna, you’re on a roll on LinkedIn!","timestamp":"2024-12-21T15:15:16.028Z"}
+{"level":"info","message":"Saved email from jobs-listings@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:16.214Z"}
+{"level":"info","message":"Processed email: Software Engineer Intern job at Kintsugi is available","timestamp":"2024-12-21T15:15:16.214Z"}
+{"level":"info","message":"Saved email from notifications-noreply@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:16.509Z"}
+{"level":"info","message":"Processed email: You have 1 new invitation","timestamp":"2024-12-21T15:15:16.510Z"}
+{"level":"info","message":"Saved email from messages-noreply@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:16.665Z"}
+{"level":"info","message":"Processed email: 8 people visited your profile","timestamp":"2024-12-21T15:15:16.666Z"}
+{"level":"info","message":"Saved email from updates-noreply@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:16.960Z"}
+{"level":"info","message":"Processed email: Internship Alert recently posted","timestamp":"2024-12-21T15:15:16.960Z"}
+{"level":"info","message":"Saved email from newsletters-noreply@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:17.080Z"}
+{"level":"info","message":"Processed email: Work-life balance vs higher pay, Tuning in to founder-led branding, and more conversations","timestamp":"2024-12-21T15:15:17.080Z"}
+{"level":"info","message":"Saved email from hello@mail.grammarly.com to MongoDB","timestamp":"2024-12-21T15:15:17.258Z"}
+{"level":"info","message":"Processed email: You’re lapping the competition","timestamp":"2024-12-21T15:15:17.259Z"}
+{"level":"info","message":"Saved email from messages-noreply@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:17.437Z"}
+{"level":"info","message":"Processed email: Manogna, I’m still waiting for your response","timestamp":"2024-12-21T15:15:17.438Z"}
+{"level":"info","message":"Saved email from noreply@opportuinities.unstop.news to MongoDB","timestamp":"2024-12-21T15:15:17.503Z"}
+{"level":"info","message":"Processed email: IOCL Sustainability challenge - ₹6 Lakh cash prize! Participate now!","timestamp":"2024-12-21T15:15:17.503Z"}
+{"level":"info","message":"Saved email from messages-noreply@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:17.680Z"}
+{"level":"info","message":"Processed email: Since you set a Software Engineer alert, improve your Software Engineer skills with these courses","timestamp":"2024-12-21T15:15:17.680Z"}
+{"level":"info","message":"Saved email from messages-noreply@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:17.870Z"}
+{"level":"info","message":"Processed email: Manogna, you’re on a roll on LinkedIn!","timestamp":"2024-12-21T15:15:17.871Z"}
+{"level":"info","message":"Saved email from notifications-noreply@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:18.134Z"}
+{"level":"info","message":"Processed email: You have 1 new invitation","timestamp":"2024-12-21T15:15:18.135Z"}
+{"level":"info","message":"Saved email from alice@bellefever.com.au to MongoDB","timestamp":"2024-12-21T15:15:18.140Z"}
+{"level":"info","message":"Processed email: Checking you saw this?","timestamp":"2024-12-21T15:15:18.140Z"}
+{"level":"info","message":"Saved email from no-reply@mail.instagram.com to MongoDB","timestamp":"2024-12-21T15:15:18.160Z"}
+{"level":"info","message":"Processed email: yashu_13_2008, see gajja, Narasimharao Somisetty and more in your feed","timestamp":"2024-12-21T15:15:18.161Z"}
+{"level":"info","message":"Saved email from jobs-listings@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:18.230Z"}
+{"level":"info","message":"Processed email: Java Intern job at Cloud Counselage Pvt. Ltd.: Actively recruiting","timestamp":"2024-12-21T15:15:18.230Z"}
+{"level":"info","message":"Saved email from updates-noreply@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:18.553Z"}
+{"level":"info","message":"Processed email: Oasis Infobyte recently posted","timestamp":"2024-12-21T15:15:18.554Z"}
+{"level":"info","message":"Saved email from noreply@uber.com to MongoDB","timestamp":"2024-12-21T15:15:18.631Z"}
+{"level":"info","message":"Processed email: Check off your to-do lists with the Uber app","timestamp":"2024-12-21T15:15:18.632Z"}
+{"level":"info","message":"Saved email from linkedin@e.linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:18.697Z"}
+{"level":"info","message":"Processed email: Manogna, reactivate your Premium trial","timestamp":"2024-12-21T15:15:18.697Z"}
+{"level":"info","message":"Saved email from no-reply@mail.instagram.com to MongoDB","timestamp":"2024-12-21T15:15:18.749Z"}
+{"level":"info","message":"Processed email: sravankumarkarapakula, see Ritika Yadav, Deepak Yadav and more in your feed","timestamp":"2024-12-21T15:15:18.750Z"}
+{"level":"info","message":"Saved email from no-reply@mail.instagram.com to MongoDB","timestamp":"2024-12-21T15:15:18.788Z"}
+{"level":"info","message":"Processed email: supremeephenom, manhar_on_streettriple and nglkante have posts","timestamp":"2024-12-21T15:15:18.788Z"}
+{"level":"info","message":"Saved email from messages-noreply@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:19.108Z"}
+{"level":"info","message":"Processed email: Manogna, you’re on a roll on LinkedIn!","timestamp":"2024-12-21T15:15:19.108Z"}
+{"level":"info","message":"Saved email from messages-noreply@linkedin.com to MongoDB","timestamp":"2024-12-21T15:15:19.410Z"}
+{"level":"info","message":"Processed email: 💬 Add Dinesh Kottakota, Web Development Intern","timestamp":"2024-12-21T15:15:19.410Z"}

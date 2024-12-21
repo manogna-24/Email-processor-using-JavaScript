@@ -1,0 +1,16 @@
+{
+  "name": "email-processor",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node src/server.js",
+    "process": "node src/email-processor.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "imap": "^0.8.19",
+    "ini": "^2.0.0",
+    "mailparser": "^3.4.0",
+    "mongodb": "^4.4.0",
+    "winston": "^3.3.3"
+  }
+}
