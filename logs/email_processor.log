@@ -37,7 +37,6 @@
 {"level":"info","message":"Saved email from recruitment.entrylevel@tcs.com to MongoDB","timestamp":"2024-12-21T14:34:36.539Z"}
 {"level":"info","message":"Processed email: TCS NextStep: Login Email ID Verification","timestamp":"2024-12-21T14:34:36.540Z"}
 {"level":"info","message":"Saved email from recruitment.entrylevel@tcs.com to MongoDB","timestamp":"2024-12-21T14:34:36.548Z"}
-{"level":"info","message":"Processed email: Acceptance of TCS Offer Letter","timestamp":"2024-12-21T14:34:36.548Z"}
 {"level":"info","message":"Saved email from no-reply@accounts.google.com to MongoDB","timestamp":"2024-12-21T14:34:36.558Z"}
 {"level":"info","message":"Reading config file from: C:\\Users\\Karapakula Manogna\\OneDrive\\Documents\\Nexagen-node\\email-processor\\config\\config.ini","timestamp":"2024-12-21T14:37:07.650Z"}
 {"0":"Email","1":"Database","level":"info","message":"Config sections found:","timestamp":"2024-12-21T14:37:07.658Z"}
@@ -47,7 +46,6 @@
 {"level":"info","message":"Saved email from recruitment.entrylevel@tcs.com to MongoDB","timestamp":"2024-12-21T14:37:11.909Z"}
 {"level":"info","message":"Processed email: TCS NextStep: Login Email ID Verification","timestamp":"2024-12-21T14:37:11.909Z"}
 {"level":"info","message":"Saved email from recruitment.entrylevel@tcs.com to MongoDB","timestamp":"2024-12-21T14:37:11.918Z"}
-{"level":"info","message":"Processed email: Acceptance of TCS Offer Letter","timestamp":"2024-12-21T14:37:11.919Z"}
 {"level":"info","message":"Saved email from no-reply@accounts.google.com to MongoDB","timestamp":"2024-12-21T14:37:11.937Z"}
 {"level":"info","message":"Processed email: Security alert","timestamp":"2024-12-21T14:37:11.938Z"}
 {"level":"info","message":"Saved email from notification@priority.facebookmail.com to MongoDB","timestamp":"2024-12-21T14:37:11.948Z"}
